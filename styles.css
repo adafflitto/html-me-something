@@ -1,0 +1,30 @@
+body{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    color: green;
+    background-color: rgb(208, 255, 0);
+    text-align: center;
+    text-size-adjust: 50px
+    
+}
+
+h2{
+    color: green;
+}
+
+.overview{
+    padding: 5px;
+    text-size-adjust:28;
+    text-align: center;
+    background-color:rgba(86, 216, 184, 0.986)
+}
+
+#rundown{
+    padding-bottom: 25px;
+    color: red
+}
